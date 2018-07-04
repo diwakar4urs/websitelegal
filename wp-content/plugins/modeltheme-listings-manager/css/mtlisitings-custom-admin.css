@@ -1,0 +1,17 @@
+.cmb_id_smartowl_font-awesome-icons li,
+.cmb_id_smartowl_font-simple-line-icons li {
+    float: left;
+    width: 60px;
+}
+.rAds .mgv1_1 {
+    display: none;
+}
+table.cmb_metabox li {
+    float: left !important;
+    width: 60px !important;
+}
+.cmb_id_mt_listing_featured_image,
+.cmb_id_mt_listing_description,
+.cmb_id_mt_listing_crypto_coin_name{
+	display: none;
+}

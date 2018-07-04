@@ -1,0 +1,588 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/content-listing-archive.php:170
+msgid ""
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:247
+msgid " For Sale"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/content-listing-archive.php:70
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:247
+msgid " Per Day"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:247
+msgid " Per month"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:44
+msgid " Photos"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/content-listing-archive.php:86
+msgid " for Sale"
+msgstr ""
+
+#. Text in echo
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes-taxonomy.php:38
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes-taxonomy.php:74
+msgid "Add Image"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Add Listing"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/dynamic-featured-image/dynamic-featured-image.php:1
+#: modeltheme-listings-manager/inc/dynamic-featured-image/dynamic-featured-image.php:375
+msgid "Add New"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Add New Item"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Add New Listing"
+msgstr ""
+
+#. Text in echo
+#: modeltheme-listings-manager/helpers/cmb_Meta_Box_types.php:250
+msgid "Add Row"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Add or remove items"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Address"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "All Items"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:247
+msgid "Balconies: "
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Balcony"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Bathrooms"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:247
+msgid "Bathrooms: "
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Bedrooms"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:247
+msgid "Bedrooms: "
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Car Parking:"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:247
+msgid "Car Parking: "
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Choose from the most used"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:247
+msgid "Construction year: "
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/redux-options/redux.listings.config.php:1
+msgid "Currency"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/redux-options/redux.listings.config.php:1
+msgid "Currency Sign Position"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/dynamic-featured-image/dynamic-featured-image.php:1
+msgid "Dynamic Featured Image - Media Selector"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Edit"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Edit Item"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Edit Listing"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/redux-options/redux.listings.config.php:1
+msgid "Enable or disable related Listings"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Enter a youtube link"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/dynamic-featured-image/dynamic-featured-image.php:1
+msgid "Featured Image"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:198
+msgid "Features"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/redux-options/redux.listings.config.php:1
+msgid "Forms from Contact Form 7. More details here"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Garages"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:247
+msgid "Garages: "
+msgstr ""
+
+#. Text in echo
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes-taxonomy.php:34
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes-taxonomy.php:63
+msgid "Image"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Insurance"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:247
+msgid "Insurance: "
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Kitchens"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:247
+msgid "Kitchens: "
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/redux-options/redux.listings.config.php:1
+msgid "Left"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/redux-options/redux.listings.config.php:1
+msgid "Left with space"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Listing"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Listing Amenities"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Listing Locations"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Listing Scopes"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Listing Types"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Listings"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Living rooms:"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:247
+msgid "Living rooms: "
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "MT Listings"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "MT Listings Custom Options"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/redux-options/redux.listings.config.php:1
+msgid "MT Listings Settings"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Map Location Coordinates"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "New Item Name"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "New Listing"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "No Listings Found"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "No Listings Found in Trash"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Not Found"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:338
+msgid "Pages:"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Parent Item"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Parent Item:"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Parent Listing"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Pools"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:247
+msgid "Pools: "
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Popular Items"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Price (For Sale)"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Price (Per Day)"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Price (Per Month)"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/redux-options/redux.listings.config.php:1
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:343
+msgid "Related Listings"
+msgstr ""
+
+#. Text in echo
+#: modeltheme-listings-manager/helpers/cmb_Meta_Box_types.php:306
+#: modeltheme-listings-manager/inc/dynamic-featured-image/dynamic-featured-image.php:1
+#: modeltheme-listings-manager/inc/dynamic-featured-image/dynamic-featured-image.php:377
+msgid "Remove"
+msgstr ""
+
+#. Text in echo
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes-taxonomy.php:39
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes-taxonomy.php:75
+msgid "Remove Image"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/redux-options/redux.listings.config.php:1
+msgid "Right"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/redux-options/redux.listings.config.php:1
+msgid "Right with space"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Search Items"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Search Listings"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/redux-options/redux.listings.config.php:1
+msgid "Select a CF7 Form - For RENT Listings"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/redux-options/redux.listings.config.php:1
+msgid "Select a CF7 Form - For SALE Listings"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/redux-options/redux.listings.config.php:1
+msgid "Select currency"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/redux-options/redux.listings.config.php:1
+msgid "Select currency Sign Position"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Separate items with commas"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/dynamic-featured-image/dynamic-featured-image.php:1
+#: modeltheme-listings-manager/inc/dynamic-featured-image/dynamic-featured-image.php:369
+msgid "Set Featured Image"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Set latitude & longitude (separated by comma)"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Set number of balconies"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Set number of bathrooms"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Set number of bedrooms"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Set number of garages"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Set number of kitchens"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Set number of pools"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Set number of total floors"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Set the address"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Set the number of car parking"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Set the number of living rooms"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Set the price for sale"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Set the price per day"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Set the price per month"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Set the square areas"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Set the year of construction"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/redux-options/redux.listings.config.php:1
+msgid "Single Listing Page"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:137
+msgid "Specifications"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:247
+msgid "Square Areas: "
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Square areas"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:225
+msgid "Tags:"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:247
+msgid "Total Floors: "
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Total floors"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "Update Item"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Video Tour"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:42
+msgid "View Gallery - "
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "View Item"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/post-types/post-types.php:1
+msgid "View Listing"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/templates/single/content-single-listing.php:207
+msgid "Virtual Tour"
+msgstr ""
+
+#. Text in function
+#: modeltheme-listings-manager/inc/metaboxes/metaboxes.php:1
+msgid "Year of construction:"
+msgstr ""
